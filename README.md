@@ -8,12 +8,21 @@ Organized for humans, AI, and human-AI collaborators, to explore.
 
 ## Categories of Work
 
-- Religion
-- Philosophy
-- Governance
+We aspire for this corpus to include a full representation of human writing concerning:
+
+- Religion and Spirituality
+- Philosophy and Natural Philosophy
 - Ethics and Morality
 - Love and Relationships
-- Human Rights
+- Governance and Human Rights
+
+## Categories of Work Not Included
+
+This corpus does not intend to include works whose primary categorization would be considered:
+
+- Mathematics, science, and engineering
+- Literature
+- History
 
 ## Requirements for Inclusion
 
