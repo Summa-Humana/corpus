@@ -6,13 +6,16 @@ The minimal possible directory structure & markdown metadata structure is best. 
 
 ## Texts
 
+```
 /texts/{text-name}/
 /texts/{text-name}/index.md
+```
 
 ## Version Name
 
 Examples:
 
+```
 /texts/bible/hebrew-greek
 /texts/bible/septuagint
 /texts/tanakh/masoretic-text
@@ -71,11 +74,13 @@ Examples:
 /texts/un-declaration-human-rights/french-official
 /texts/second-sex/french-gallimard
 /texts/second-sex/french-critical
+```
 
 ## Book Name
 
 Examples:
 
+```
 /texts/bible/hebrew-greek/genesis
 /texts/bible/septuagint/exodus
 /texts/tanakh/masoretic-text/genesis
@@ -134,4 +139,4 @@ Examples:
 /texts/un-declaration-human-rights/french-official/complete
 /texts/second-sex/french-gallimard/volume-1
 /texts/second-sex/french-critical/volume-2
-
+```
