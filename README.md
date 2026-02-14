@@ -1,4 +1,10 @@
-# corpus
+# The Summa Humana Corpus
+
+This is who we are.
+
+A collection of works that represent humanity's search to understand itself.
+
+Organized for humans, AI, and human-AI collaborators, to explore.
 
 ## Categories of Work
 
