@@ -1,0 +1,111 @@
+# Dao De Jing (道德經)
+
+**Version**: Classical Chinese with English Translation
+**Source**: Chinese Text Project (ctext.org)
+**English Translation**: James Legge
+**Language**: Classical Chinese (文言文) with English
+**Period**: Warring States (475 BC - 221 BC)
+
+This bilingual edition presents the classical Chinese text alongside James Legge's English translation. The Chinese text is based on traditional scholarly editions, and includes variant readings where relevant. Chinese Text Project is a digital library providing access to pre-modern Chinese texts with translations.
+
+---
+
+## Chapter 1
+### 原文 (Classical Chinese)
+
+道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，衆妙之門。
+
+### English Translation
+
+**(Embodying the Dao)**
+
+The Dao that can be trodden is not the enduring and unchanging Dao. The name that can be named is not the enduring and unchanging name. (Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things.
+
+Always without desire we must be found,
+If its deep mystery we would sound;
+But if desire always within us be,
+Its outer fringe is all that we shall see.
+
+Under these two aspects, it is really the same; but as development takes place, it receives the different names. Together we call them the Mystery. Where the Mystery is the deepest is the gate of all that is subtle and wonderful.
+
+---
+
+## Chapter 2
+### 原文 (Classical Chinese)
+
+天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。是以聖人處無為之事，行不言之教；萬物作焉而不辭，生而不有。為而不恃，功成而弗居。夫唯弗居，是以不去。
+
+### English Translation
+
+**(The nourishment of the person)**
+
+All in the world know the beauty of the beautiful, and in doing this they have (the idea of) what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is. So it is that existence and non-existence give birth the one to (the idea of) the other; that difficulty and ease produce the one (the idea of) the other; that length and shortness fashion out the one the figure of the other; that (the ideas of) height and lowness arise from the contrast of the one with the other; that the musical notes and tones become harmonious through the relation of one with another; and that being before and behind give the idea of one following another. Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech. All things spring up, and there is not one which declines to show itself; they grow, and there is no claim made for their ownership; they go through their processes, and there is no expectation (of a reward for the results). The work is accomplished, and there is no resting in it (as an achievement).
+
+The work is done, but how no one can see;
+'Tis this that makes the power not cease to be.
+
+---
+
+## Chapter 3
+### 原文 (Classical Chinese)
+
+不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使心不亂。是以聖人之治，虛其心，實其腹，弱其志，強其骨。常使民無知無欲。使夫知者不敢為也。為無為，則無不治。
+
+### English Translation
+
+**(Keeping the people at rest)**
+
+Not to value and employ men of superior ability is the way to keep the people from rivalry among themselves; not to prize articles which are difficult to procure is the way to keep them from becoming thieves; not to show them what is likely to excite their desires is the way to keep their minds from disorder. Therefore the sage, in the exercise of his government, empties their minds, fills their bellies, weakens their wills, and strengthens their bones. He constantly (tries to) keep them without knowledge and without desire, and where there are those who have knowledge, to keep them from presuming to act (on it). When there is this abstinence from action, good order is universal.
+
+---
+
+## Chapter 4
+### 原文 (Classical Chinese)
+
+道沖而用之或不盈。淵兮似萬物之宗。挫其銳，解其紛，和其光，同其塵。湛兮似或存。吾不知誰之子，象帝之先。
+
+### English Translation
+
+**(The fountainless)**
+
+The Dao is (like) the emptiness of a vessel; and in our employment of it we must be on our guard against all fulness. How deep and unfathomable it is, as if it were the Honoured Ancestor of all things! We should blunt our sharp points, and unravel the complications of things; we should attemper our brightness, and bring ourselves into agreement with the obscurity of others. How pure and still the Dao is, as if it would ever so continue! I do not know whose son it is. It might appear to have been before God.
+
+---
+
+## Chapter 5
+### 原文 (Classical Chinese)
+
+天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗。天地之間，其猶橐籥乎？虛而不屈，動而愈出。多言數窮，不如守中。
+
+### English Translation
+
+**(The use of emptiness)**
+
+Heaven and earth do not act from (the impulse of) any wish to be benevolent; they deal with all things as the dogs of grass are dealt with. The sages do not act from (any wish to be) benevolent; they deal with the people as the dogs of grass are dealt with. May not the space between heaven and earth be compared to a bellows?
+
+'Tis emptied, yet it loses not its power;
+'Tis moved again, and sends forth air the more.
+Much speech to swift exhaustion lead we see;
+Your inner being guard, and keep it free.
+
+---
+
+## Chapter 6
+### 原文 (Classical Chinese)
+
+谷神不死，是謂玄牝。玄牝之門，是謂天地根。綿綿若存，用之不勤。
+
+### English Translation
+
+**(The completion of material forms)**
+
+The valley spirit dies not, aye the same;
+The female mystery thus do we name.
+Its gate, from which at first they issued forth,
+Is called the root from which grew heaven and earth.
+Long and unbroken does its power remain,
+Used gently, and without the touch of pain.
+
+---
+
+**Note**: This is a sample edition containing the first 6 chapters. A complete edition would include all 81 chapters with both Classical Chinese original text and English translation side-by-side.
